@@ -7,12 +7,21 @@
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 </head>
 <body>
-    <div id="content"></div>
+    <div id="content">Loading...</div>
     <script>
-        fetch('./HistorischeEntwicklung.md')
-            .then(response => response.text())
+        fetch('HistorischeEntwicklung.md')
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Network response was not ok');
+                }
+                return response.text();
+            })
             .then(text => {
-                document.getElementById('content').innerHTML = marked(text);
+                document.getElementById('content').innerHTML = marked.parse(text);
+            })
+            .catch(error => {
+                document.getElementById('content').innerHTML = 'Error loading Markdown file: ' + error.message;
+                console.error('There has been a problem with your fetch operation:', error);
             });
     </script>
 </body>
