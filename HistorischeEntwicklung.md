@@ -12,8 +12,8 @@
 | 1890 | Hermann Hollerith entwickelt für die elfte amerikanische Volkszählung eine lochkartengesteuerte Zählmaschine. |
 | 1941 | **Konrad Zuse erbaut in Berlin die Z3, den ersten funktionsfähigen programmgesteuerten Rechenautomaten.** <br>![Z3](https://www.ingenieur.de/wp-content/uploads/2017/11/2016/12727_Z3-von-Konrad-Zuse-im-Jahr-1960.jpg)<br>Die Z3, Nachbau 1960, Deutsches Museum München|
 | ab 1946 | Rechner der 1. Generation mit Elektronenröhren (etwa 1000 Additionen pro Sekunde). |
-| ab 1957 | Rechner der 2. Generation mit Halbleiterschaltkreisen (etwa 10.000 Addionen pro Sekunde). |
-| ab 1964 | Rechner der 3. Generation mit teilweise integrierten Schaltkreisen (etwa 500.000 Additionen pro Sekunde). |
+| ab 1957 | Rechner der 2. Generation mit Transistoren (etwa 10.000 Addionen pro Sekunde). |
+| ab 1964 | Rechner der 3. Generation mit teilweise integrierten Schaltkreisen (IC) (etwa 500.000 Additionen pro Sekunde). |
 | ab 1970 | Rechner der 4. Generation mit überwiegend hochintegrierten Schaltkreisen (etwa 10.000.000 Additionen pro Sekunde). |
 | ab 1980 | Rechner der 5. Generation mit höchstintegrierten Schaltungen. |
 | 1981 | **IBM stellt den ersten Personal Computer (PC) vor, der IBM 5150.** |
