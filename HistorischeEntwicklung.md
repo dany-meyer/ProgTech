@@ -16,3 +16,12 @@
 | ab 1964 | Rechner der 3. Generation mit teilweise integrierten Schaltkreisen (etwa 500.000 Additionen pro Sekunde). |
 | ab 1970 | Rechner der 4. Generation mit überwiegend hochintegrierten Schaltkreisen (etwa 10.000.000 Additionen pro Sekunde). |
 | ab 1980 | Rechner der 5. Generation mit höchstintegrierten Schaltungen. |
+| 1981 | IBM stellt den ersten Personal Computer (PC) vor, der IBM 5150. |
+| 1989 | Tim Berners-Lee entwickelt das World Wide Web, das die Nutzung von Computern revolutioniert. |
+| ab 1990 | Rechner der 6. Generation mit paralleler Verarbeitung und Supercomputern (etwa 1.000.000.000 Additionen pro Sekunde). |
+| 1997 | IBM's Deep Blue besiegt den Schachweltmeister Garry Kasparov, was die Leistungsfähigkeit von Computern in der künstlichen Intelligenz demonstriert. |
+| ab 2000 | Rechner der 7. Generation mit verteiltem Rechnen und Cloud-Computing (etwa 10.000.000.000 Additionen pro Sekunde). |
+| 2011 | IBM's Watson gewinnt die Quizshow Jeopardy!, was die Fortschritte in der Verarbeitung natürlicher Sprache zeigt. |
+| ab 2020 | Rechner der 8. Generation mit künstlicher Intelligenz und maschinellem Lernen (etwa 100.000.000.000 Additionen pro Sekunde). |
+| 2023 | Google erreicht mit seinem Quantencomputer Sycamore die Quantenüberlegenheit, indem er eine Berechnung in 200 Sekunden durchführt, die ein klassischer Supercomputer in 10.000 Jahren erledigen würde. |
+| ab 2025 | Quantencomputer werden zunehmend für spezialisierte Anwendungen in der Kryptographie, Materialwissenschaft und Optimierung eingesetz. |
