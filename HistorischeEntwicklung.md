@@ -1,5 +1,5 @@
 ## Historische Entwicklung des Computers
-| Wann | Was |
+|  |  |
 | ----------- | ----------- |
 | Altertum bis Mittelalter | Als Hilfsmittel für die vier Grundrechenarten dient das Rechenbrett Abakus. |
 | um 1600 | Der schottische Lord John Napier entwickelt Rechenstäbe, die als Hilfsmittel beim Multiplizieren und Dividieren dienen. |
@@ -24,4 +24,4 @@
 | 2011 | IBM's Watson gewinnt die Quizshow Jeopardy!, was die Fortschritte in der Verarbeitung natürlicher Sprache zeigt. |
 | ab 2020 | Rechner der 8. Generation mit künstlicher Intelligenz und maschinellem Lernen (etwa 100.000.000.000 Additionen pro Sekunde). |
 | 2023 | Google erreicht mit seinem **Quantencomputer** Sycamore die Quantenüberlegenheit, indem er eine Berechnung in 200 Sekunden durchführt, die ein klassischer Supercomputer in 10.000 Jahren erledigen würde. |
-| ab 2025 | Quantencomputer werden zunehmend für spezialisierte Anwendungen in der Kryptographie, Materialwissenschaft und Optimierung eingesetz. |
+| ab 2025 | Quantencomputer werden zunehmend für spezialisierte Anwendungen in der Kryptographie, Materialwissenschaft und Optimierung eingesetzt. |
