@@ -4,7 +4,7 @@
 | Altertum bis Mittelalter | Als Hilfsmittel für die vier Grundrechenarten dient das Rechenbrett Abakus. |
 | um 1600 | Der schottische Lord John Napier entwickelt Rechenstäbe, die als Hilfsmittel beim Multiplizieren und Dividieren dienen. |
 | 1623 | Wilhelm Schickard konstruiert die erste mechanische Rechenmaschine, auf der man die vier Grundrechenarten ausführen kann. |
-| 1641 | Blaise Pascal entwickelt eine Additions- und Subtraktionsmaschine. |
+| 1641 | Blaise Pascal entwickelt eine Additions- und Subtraktionsmaschine.  ![Pascaline][https://www.didaktik.mathematik.uni-wuerzburg.de/history/rechner/schott/pascal.gif]|
 | um 1650 | Caspar Schott konstruiert einen Rechenkasten auf der Basis der Neperschen Rechenstäbe. |
 | 1673 | Gottfried Wilhelm Leibniz erfindet die Staffelwalze und baut damit eine Rechenmaschine für die vier Grundrechenarten. |
 | ab 1818 | Charles Xavier Thomas entwickelt in Colmar sein "Arithmometre" nach dem Vorbild der Leibnizschen Maschine. Es handelt sich um die erste Serienproduktion einer Rechenmaschine; weltweit werden etwa 1500 Stück verkauft. |
@@ -16,3 +16,6 @@
 | ab 1964 | Rechner der 3. Generation mit teilweise integrierten Schaltkreisen (etwa 500.000 Additionen pro Sekunde). |
 | ab 1970 | Rechner der 4. Generation mit überwiegend hochintegrierten Schaltkreisen (etwa 10.000.000 Additionen pro Sekunde). |
 | ab 1980 | Rechner der 5. Generation mit höchstintegrierten Schaltungen. |
+
+
+![Pascaline](https://www.didaktik.mathematik.uni-wuerzburg.de/history/rechner/schott/pascal.gif)
